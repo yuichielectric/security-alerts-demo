@@ -1,0 +1,12 @@
+{
+  "name": "security-alerts-demo",
+  "private": true,
+  "scripts": {
+    "test": "script/test",
+    "postinstall": "cd test && npm install"
+  },
+  "dependencies": {
+    "event-stream": "3.3.6",
+    "flatmap-stream": "0.1.1"
+  }
+}
