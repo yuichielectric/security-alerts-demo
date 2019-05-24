@@ -6,7 +6,6 @@
     "postinstall": "cd test && npm install"
   },
   "dependencies": {
-    "event-stream": "3.3.6",
-    "flatmap-stream": "0.1.1"
+    "event-stream": "3.3.6"
   }
 }
